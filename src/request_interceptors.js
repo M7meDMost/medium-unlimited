@@ -33,6 +33,8 @@ const urlsList = [
   'https://android.jlelse.eu/*',
   'https://robinhood.engineering/*',
   'https://blog.hipolabs.com/*',
+  'https://medium.muz.li/*',
+  'https://blog.kotlin-academy.com/*',
   'https://ux.shopify.com/*',
 ];
 
