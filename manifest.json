@@ -45,6 +45,8 @@
         "https://android.jlelse.eu/*",
         "https://robinhood.engineering/*",
         "https://blog.hipolabs.com/*",
+        "https://medium.muz.li/*",
+        "https://blog.kotlin-academy.com/*",
         "https://ux.shopify.com/*"
       ],
       "js": ["main.bundle.js"]
@@ -90,6 +92,8 @@
     "https://android.jlelse.eu/*",
     "https://robinhood.engineering/*",
     "https://blog.hipolabs.com/*",
+    "https://medium.muz.li/*",
+    "https://blog.kotlin-academy.com/*",
     "https://ux.shopify.com/*"
   ],
   "web_accessible_resources": ["static/*"]
